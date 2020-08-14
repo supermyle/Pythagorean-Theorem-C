@@ -13,7 +13,7 @@
  * If the input equals 0 reprompt user to enter a valid input
  *
  * The second parameter is an int* that points to the variable that the user is entering for input 
- * scanvalid then use the int* to set the new int value after it remprompts the user to enter a valid input
+ * scanvalid then use the int* to set the new int value after it reprompts the user to enter a valid input
  */
 
 void scanvalid(int, int*); //Function to validate input as int
